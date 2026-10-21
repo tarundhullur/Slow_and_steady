@@ -1,0 +1,9 @@
+Tuesday check-in
+
+- Reviewed the community project submissions and shared feedback with Mira.
+- The new onboarding notes are ready, but the screenshots still need captions.
+- [ ] Ask Sam to review the accessibility pass tomorrow.
+- Remember to send the Hacktoberfest draft before Friday.
+- Had a helpful conversation about making the setup instructions friendlier for first-time contributors.
+
+The main thing to carry forward: keep the next release small, clear, and easy to try.
